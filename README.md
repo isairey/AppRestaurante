@@ -74,7 +74,7 @@ src/
 1. Clonar el repositorio:
 
 ```bash id="d4p9ls"
-git clone https://github.com/TU-USUARIO/sistema-restaurante-java.git
+git clone https://github.com/isairey/AppRestaurante.git
 ```
 
 2. Abrir el proyecto en tu IDE:
@@ -135,6 +135,6 @@ Desarrollador enfocado en sistemas empresariales, backend y aplicaciones de escr
 Proyecto de uso libre para fines educativos y demostrativos.
 
 
-To execute use ->
-User: Administrador
-Password: admin
+## Credenciales
+- User: Administrador
+- Password: admin
